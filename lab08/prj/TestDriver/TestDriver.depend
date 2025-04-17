@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744870564 source:c:\users\vinrid\onedrive\desktop\git clon\chervonets-artem-kn24\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesChervonets.h"
+
+1744870091 c:\users\vinrid\onedrive\desktop\git clon\chervonets-artem-kn24\lab08\prj\moduleschervonets.h
+
